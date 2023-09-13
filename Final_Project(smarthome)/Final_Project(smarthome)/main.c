@@ -2,7 +2,7 @@
  * main.c
  *
  * Created: 9/12/2023 7:13:10 PM
- *  Author: HashimAbdulAzizHashi
+ *  Author: Hashim Abdulaziz Hashim
  */ 
 
 #include "App/App.h"
@@ -13,7 +13,6 @@
 
 int main(void)
 {
-	
 	Init_peripherals();
 	
     while(1)
@@ -23,11 +22,11 @@ int main(void)
 		System_Locked();
     }
 	
-	
-	LED_OFF_ON();
+	Monitor_Options();
 	
 	while(1)
 	{
+		LED_OFF_ON();
 		Conrol_Motor();
 	}
 }
