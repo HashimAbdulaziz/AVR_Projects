@@ -2,6 +2,8 @@
 
 ![smarthomegif](https://github.com/HashimAbdulaziz/AVR_Projects/assets/88584784/16332944-ebc7-4ca5-876f-ccf7796811a9)
 
+![smarthome2gif](https://github.com/HashimAbdulaziz/AVR_Projects/assets/88584784/9318dac0-4921-4858-9f0a-768bee311ac7)
+
 ## Overview
 
 This project is designed to create a temperature-controlled access system using an Atmega 32 microcontroller. It includes components such as a Temperature Sensor (LM35), DC Motor, Keypad, LCD, LEDs, and an Atmega 32 microcontroller. The system allows users to enter a password via the keypad, and upon successful login, they can control LEDs and monitor the temperature.
