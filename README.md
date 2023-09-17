@@ -1,4 +1,5 @@
 # Temperature Sensor and DC Motor Control System
+![projectscreen](https://github.com/HashimAbdulaziz/AVR_Projects/assets/88584784/788ca463-7fd0-47bd-815f-deb013539c42)
 
 ## Overview
 
