@@ -1,6 +1,5 @@
 # Temperature Sensor and DC Motor Control System
 
-![smarthomegif](https://github.com/HashimAbdulaziz/AVR_Projects/assets/88584784/16332944-ebc7-4ca5-876f-ccf7796811a9)
 
 ![smarthome2gif](https://github.com/HashimAbdulaziz/AVR_Projects/assets/88584784/9318dac0-4921-4858-9f0a-768bee311ac7)
 
